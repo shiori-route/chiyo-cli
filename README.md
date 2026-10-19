@@ -72,16 +72,6 @@ experimental. All of them are built around the same idea:
 
 Build the smallest tool that solves the problem well enough.
 
-## AI-Assisted
-
-This project is built with AI assistance. The tools are intentionally small
-enough that generated changes can be read, questioned, and reshaped without
-turning the codebase into a black box.
-
-The current code should be treated as not yet fully audited. AI helps with
-drafting, refactoring, tests, and documentation, but the final responsibility
-for behavior, design, and maintainability stays with me.
-
 ## Install
 
 Chiyo CLI currently uses development installation. `install.sh` only bootstraps
